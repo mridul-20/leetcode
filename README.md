@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mridul-20/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mridul-20/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mridul-20/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mridul-20/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/mridul-20/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mridul-20/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -91,10 +93,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mridul-20/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mridul-20/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/mridul-20/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [2793-count-the-number-of-complete-components](https://github.com/mridul-20/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/mridul-20/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
