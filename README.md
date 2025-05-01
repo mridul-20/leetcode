@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/mridul-20/leetcode/tree/master/1036-rotting-oranges) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mridul-20/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mridul-20/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mridul-20/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -126,9 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mridul-20/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mridul-20/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mridul-20/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/mridul-20/leetcode/tree/master/1036-rotting-oranges) |
 | [2793-count-the-number-of-complete-components](https://github.com/mridul-20/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mridul-20/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/mridul-20/leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
