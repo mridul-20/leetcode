@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mridul-20/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mridul-20/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mridul-20/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Tree
@@ -151,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mridul-20/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mridul-20/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/mridul-20/leetcode/tree/master/1036-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mridul-20/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mridul-20/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
