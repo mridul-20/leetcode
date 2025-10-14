@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mridul-20/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mridul-20/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mridul-20/leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/mridul-20/leetcode/tree/master/0217-contains-duplicate) |
 | [1036-rotting-oranges](https://github.com/mridul-20/leetcode/tree/master/1036-rotting-oranges) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mridul-20/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mridul-20/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mridul-20/leetcode/tree/master/0133-clone-graph) |
+| [0217-contains-duplicate](https://github.com/mridul-20/leetcode/tree/master/0217-contains-duplicate) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mridul-20/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mridul-20/leetcode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mridul-20/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
