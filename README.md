@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mridul-20/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mridul-20/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/mridul-20/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/mridul-20/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1036-rotting-oranges](https://github.com/mridul-20/leetcode/tree/master/1036-rotting-oranges) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mridul-20/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mridul-20/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mridul-20/leetcode/tree/master/0238-product-of-array-except-self) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mridul-20/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
