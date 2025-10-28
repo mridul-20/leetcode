@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mridul-20/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mridul-20/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mridul-20/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mridul-20/leetcode/tree/master/0130-surrounded-regions) |
@@ -179,5 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mridul-20/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/mridul-20/leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mridul-20/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
