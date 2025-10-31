@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mridul-20/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mridul-20/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/mridul-20/leetcode/tree/master/0371-sum-of-two-integers) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mridul-20/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mridul-20/leetcode/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mridul-20/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
