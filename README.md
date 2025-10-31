@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mridul-20/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mridul-20/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mridul-20/leetcode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/mridul-20/leetcode/tree/master/0338-counting-bits) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mridul-20/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Tree
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mridul-20/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mridul-20/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/mridul-20/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/mridul-20/leetcode/tree/master/0371-sum-of-two-integers) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mridul-20/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mridul-20/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
