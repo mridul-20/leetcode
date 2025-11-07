@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mridul-20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/mridul-20/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mridul-20/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mridul-20/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mridul-20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mridul-20/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mridul-20/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mridul-20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mridul-20/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mridul-20/leetcode/tree/master/0015-3sum) |
 ## Greedy
