@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mridul-20/leetcode/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/mridul-20/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mridul-20/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mridul-20/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mridul-20/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/mridul-20/leetcode/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/mridul-20/leetcode/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -221,9 +223,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mridul-20/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/mridul-20/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mridul-20/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mridul-20/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mridul-20/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
